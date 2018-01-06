@@ -7,6 +7,7 @@
 ### Jan 06, 2018 (open put your name here)
 * Jordan Carlile
 * Lei Zhao
+* Kurt Johnson
 
 # How To Use
 * TODO
