@@ -5,7 +5,9 @@
 
 ## Attendance List
 ### Jan 06, 2018 (open put your name here)
-Jordan Carlile
-krishna suhas
+* Jordan Carlile
+* Krishna Suhas
+* Lei Zhao
+
 # How To Use
 * TODO
