@@ -5,8 +5,8 @@
 
 ## Attendance List
 ### Jan 06, 2018 (open put your name here)
-Jordan Carlile
-Lei Zhao
+* Jordan Carlile
+* Lei Zhao
 
 # How To Use
 * TODO
