@@ -6,6 +6,7 @@
 ## Attendance List
 ### Jan 06, 2018 (open put your name here)
 * Jordan Carlile
+* Krishna Suhas
 * Lei Zhao
 * Kurt Johnson
 
